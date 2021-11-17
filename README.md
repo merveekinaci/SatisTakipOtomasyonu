@@ -1,2 +1,2 @@
 # SatisTakipOtomasyonu
-Java Swing Kütüphanesi kullanılmıştır.
+Java Swing Kütüphanesi kullanılmıştır
