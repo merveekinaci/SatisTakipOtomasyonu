@@ -96,7 +96,6 @@ public class KategoriEkle extends JDialog implements FEInterface {
 
         return null;
     }
-
     @Override
     public JTabbedPane initTabs() {
         return null;

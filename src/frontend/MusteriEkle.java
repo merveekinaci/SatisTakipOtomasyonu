@@ -50,7 +50,7 @@ public class MusteriEkle extends JDialog implements FEInterface {
         JPanel panel = new JPanel(new BorderLayout());
         JPanel fieldJPanel = new JPanel(new GridLayout(4,2));
         JPanel butonJPanel = new JPanel(new GridLayout(1,2));
-        JLabel adisoadiJLabel = new JLabel("Adı Soyadı : ",JLabel.RIGHT);
+        JLabel adisoadiJLabel = new JLabel("Ad Soyad : ",JLabel.RIGHT);
         fieldJPanel.add(adisoadiJLabel);
         JTextField adisoyadiField = new JTextField(15);
         fieldJPanel.add(adisoyadiField);
